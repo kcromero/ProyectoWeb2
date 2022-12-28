@@ -48,7 +48,7 @@
 
 </section>
 
-<div class="contenedor">
+<div class="Contenedor_imagenes_Wrapper">
     <figure class="Contenedor__Wrapper">
         <img src="" alt="ImagenCambiante"  class="ImagenCambiante" id="logo" > 
         <figcaption class="TextoNoCambiante">

@@ -1,0 +1,99 @@
+
+
+.title-opacity-9 {color: rgb(22 46 68 );
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 2px 2px 3px rgba(14,69,206,0.92);
+    
+}
+.mapa{
+    border: 2px solid #e1e1e1;
+    outline: 3px solid rgba(75,225,208,0.13);
+outline-offset: 0px;
+}
+
+.tabs-horizontal.tabs-line .nav-tabs {
+    justify-content: space-around;
+    border-bottom: 3px solid #e1e1e1;
+}
+
+.slider {
+    border-color: aqua;
+	width: 90.9%;
+    overflow:hidden;
+    
+}
+
+.slider ul {
+    display: flex;
+	width: 400%;
+	animation: cambio 15s infinite alternate linear;
+}
+
+.slider li {
+	list-style: none;
+   
+}
+ 
+.slider img{
+    
+    display:block;
+    line-height: 0%;
+    
+}
+
+
+@keyframes cambio {
+	0% {margin-left: 0;}
+	20% {margin-left: 0;}
+	
+	25% {margin-left: -100%;}
+	45% {margin-left: -100%;}
+	
+	50% {margin-left: -200%;}
+	70% {margin-left: -200%;}
+	
+	75% {margin-left: -300%;}
+	100% {margin-left: -300%;}
+}
+
+.container2{
+    width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+@media (min-width: 576px) {
+	.container {
+		max-width: 540px;
+	}
+}
+
+@media (min-width: 768px) {
+	.container {
+		max-width: 720px;
+	}
+}
+
+@media (min-width: 992px) {
+	.container {
+		max-width: 960px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.container {
+		max-width: 1200px;
+	}
+
+
+}
+
+.container-fluid {
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}

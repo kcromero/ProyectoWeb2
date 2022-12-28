@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="css/estilos.css">
     <link rel="stylesheet" href="css/modal.css">
     <link rel="stylesheet" href="css/responsive.css">
-    <!-- <link rel="stylesheet" href="css/QueHacer.css">
-    <link rel="stylesheet" href="css/quevisitar.css">  -->
+ <link rel="stylesheet" href="css/QueHacer.css">
+    <link rel="stylesheet" href="css/quevisitar.css"> 
     <link rel="stylesheet" href="css/stfiestas.css"> 
 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Work+Sans&display=swap" rel="stylesheet">
@@ -113,7 +113,7 @@
                         <a class="Direccion__2" href="leyenda_y_tradiciones_s_E.php"> <b>Leyendas y Tradiciones</b></a>
                         </li>
                         <li>
-                        <a class="Direccion__2" href="galeria__Gastronomia"> <b>Gastronomía</b></a>
+                        <a class="Direccion__2" href="galeria__Gastronomia.php"> <b>Gastronomía</b></a>
                         </li>
                    
                   </ul>

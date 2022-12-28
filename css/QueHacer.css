@@ -1,0 +1,257 @@
+
+  .divisor{
+	width: 350px;
+	display: flex;
+	border-top: 2px solid #F5DE39;
+	margin-bottom: 35px;
+  }
+.divisor__2{
+	width: 180px;
+	display: flex;
+	border-top: 2px solid #F5DE39;
+	margin-bottom: 35px;
+}
+  .viajes{
+	width: 100%;
+  }
+
+  .titulo{
+	width: 100%;
+  }
+.Titulo__Horario{
+	margin-left: -150px;
+}
+.divisor__3{
+	width: 750px;
+	display: flex;
+	border-top: 2px solid #F5DE39;
+	margin-bottom: 35px;
+	margin-left: 140px;
+}
+.menu{
+	margin-bottom: 85px;
+}
+.divisor__4{
+	width: 668px;
+	display: flex;
+	border-top: 2px solid #F5DE39;
+	margin-left: 350px;
+}
+
+.divisor__5{
+	width: 440px;
+	display: flex;
+	border-top: 2px solid #F5DE39;
+	
+	margin-left: 450px;
+}
+.t__color{
+	color: #151515;
+	font-size: 16px;
+	text-shadow: none;
+}
+.T__color{
+	font-size: 30px;
+	text-align: justify;
+	text-shadow: none;
+}
+
+.divisor__6{
+	width: 340px;
+	display: flex;
+	border-top: 2px solid #F5DE39;
+	margin-bottom: 35px;
+	margin-left: 540px;
+}
+.titulo{
+	margin-top: 85px;
+}
+.contente__font{
+	width: 80%;
+	font-size: 18px;
+	text-align: left;
+	margin-left: 130px;
+}
+.Titulo__Cultura{
+    font-size: 45px;
+    margin-left: 350px;
+	color: black;
+    
+}
+.contente__font1{
+
+	font-size: 18px;
+	text-align: justify;
+	
+}
+
+.principal{
+	color: rgb(59 61 66);
+    font-size: 3.313rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800; 
+    padding: .5rem  1rem; 
+    line-height: 1;
+    text-transform: capitalize;
+	margin-left: 400px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	
+    
+}
+.principal__2{
+	color: rgb(59 61 66);
+    font-size: 3.313rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800; 
+    padding: .5rem  1rem; 
+    line-height: 1;
+    text-transform: capitalize;
+	margin-left: 200px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+    
+}
+
+.principal__3{
+	color: rgb(59 61 66);
+    font-size: 3.313rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800; 
+    padding: .5rem  1rem; 
+    line-height: 1;
+    text-transform: capitalize;
+	margin-left: 150px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+    
+
+}
+
+.divisor__7{
+	width: 640px;
+	display: flex;
+	border-top: 2px solid #F5DE39;
+	margin-left: 415px;
+}
+
+.Titu__color{
+	text-shadow: none;
+}
+
+.image{
+	width: 600px; 
+	height: 400px;
+}
+
+.image2{
+	width: 270px; 
+	height: 195px;
+}
+
+.contenedor {
+	display: flex;
+	justify-content: flex-start;
+	width: 95%;
+	height: 80vh;
+	align-items: center;
+	gap: 2rem;
+}
+
+.Contendor__imagen{
+	width: 50%;
+	
+	margin-left: 50px;
+	
+}
+
+.imagen__gastro{
+	width: 90%;
+	height: 66vh;
+	
+
+}
+
+.texto{
+	width: 50%;
+	
+	font-size: 20px;
+}
+
+.texto2{
+	width: 50%;
+	font-size: 20px;
+	margin-left: 50px;
+	
+}
+
+.Contendor2{
+	display: flex;
+	justify-content: flex-start;
+	width: 95%;
+	height: 80vh;
+	align-items: center;
+	gap: 2rem;
+}
+
+
+.divisor__10{
+	width: 440px;
+	display: flex;
+	border-top: 4px solid transparent;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 450px;
+}
+
+.Titulo__gastro{
+	color: rgb(59 61 66);
+    font-size: 2.53rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800; 
+    padding: .5rem  1rem; 
+    line-height: 1;
+    text-transform: capitalize;
+	margin-bottom: 45px;
+}
+
+.divisor__11{
+	width: 440px;
+	display: flex;
+	border-top: 4px solid transparent;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 450px;
+}
+
+.contenedor__2{
+	display: flex;
+	justify-content: flex-start;
+	width: 95%;
+	height: 80vh;
+	align-items: center;
+	gap: 2rem;
+	border: 2.5px solid rgb(77, 73, 73);
+	height: auto;
+	margin-left: 30px;
+	margin-top: 80px;
+}
+
+.imagen__gastro2{
+	width: 90%;
+	height: 60vh;
+	
+
+}
+.Contendor__imagen2{
+	width: 50%;
+	
+	
+}
+
+.texto3{
+	width: 100%;
+	font-size: 20px;
+	margin-bottom: 80px;
+	
+}
