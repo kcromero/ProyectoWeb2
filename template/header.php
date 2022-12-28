@@ -8,14 +8,12 @@
     <link rel="stylesheet" href="css/estilos.css">
     <link rel="stylesheet" href="css/modal.css">
     <link rel="stylesheet" href="css/responsive.css">
-    <link rel="stylesheet" href="css/QueHacer.css">
-    <link rel="stylesheet" href="css/quevisitar.css"> 
-    <link rel="stylesheet" href="css/galeria.css"> 
-     <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/fonts.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Work+Sans&display=swap" rel="stylesheet">
+    <!-- <link rel="stylesheet" href="css/QueHacer.css">
+    <link rel="stylesheet" href="css/quevisitar.css">  -->
+    <link rel="stylesheet" href="css/stfiestas.css"> 
 
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Work+Sans&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
         <script src="https://kit.fontawesome.com/d4a9ea1d32.js" crossorigin="anonymous"></script>
 </head>
 <body>
