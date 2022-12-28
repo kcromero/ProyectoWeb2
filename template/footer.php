@@ -1,7 +1,7 @@
 
 </main>
     <footer class="Footer">
-          <a href="#" class="footer__logo" >
+          <a href="index.php" class="footer__logo" >
             <img src="./imagenes/Logo.png" alt="logo santa elena" class="Footer__Img">
           </a>
 
@@ -19,6 +19,8 @@
        
     </footer> 
 
+<script src="js/core.min.js"></script>
+<script src="js/script.js"></script> 
     <script src="js/mapa.js"></script>
     <script src="js/slider.js"></script>
     <script src="js/cardsMap.js"></script>

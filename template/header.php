@@ -9,7 +9,11 @@
     <link rel="stylesheet" href="css/modal.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/QueHacer.css">
-    <link rel="stylesheet" href="css/quevisitar.css">  
+    <link rel="stylesheet" href="css/quevisitar.css"> 
+    <link rel="stylesheet" href="css/galeria.css"> 
+     <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Work+Sans&display=swap" rel="stylesheet">
 
         <script src="https://kit.fontawesome.com/d4a9ea1d32.js" crossorigin="anonymous"></script>
@@ -17,7 +21,7 @@
 <body>
 
 <header class="menu__navegacion">
-    <a href="#" class="Logo">
+    <a href="index.php" class="Logo">
         <img src="imagenes/Logo.png" alt="Logo Santa Elena" />
     </a>
 
@@ -106,9 +110,9 @@
                 </a>
                  <div class="menu__nesting3">
                   <ul class="Contenedor__Galeria">
-                      <li><a class="Direccion__2" href="#"> <b>Atractivos turisticos</b></a></li>
+                      <li><a class="Direccion__2" href="galeria_turistica_santa_elena.php"> <b>Atractivos turisticos</b></a></li>
                         <li>
-                        <a class="Direccion__2" href="#"> <b>Leyendas y Tradiciones</b></a>
+                        <a class="Direccion__2" href="leyenda_y_tradiciones_s_E.php"> <b>Leyendas y Tradiciones</b></a>
                         </li>
                         <li>
                         <a class="Direccion__2" href="galeria__Gastronomia"> <b>Gastronomía</b></a>

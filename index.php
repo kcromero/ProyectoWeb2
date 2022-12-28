@@ -1,4 +1,4 @@
-<?php  include_once './template/header.php'; ?>
+<?php  include './template/header.php'; ?>
 
 <section class="modal">
     <div class="modal__contenedor">
@@ -290,4 +290,4 @@
     </div>
 </section> 
 
-<?php  include_once './template/footer.php'; ?>
+<?php  include './template/footer.php'; ?>
