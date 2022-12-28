@@ -1,0 +1,92 @@
+
+@media screen and (max-width:970px){
+
+    .menu__navegacion{
+        position: relative;
+        height: 20vh;
+    }
+    
+
+ 
+    .Contenedor_navegacion{
+        position: absolute;
+        bottom: 10px;
+        left: 0rem;
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+
+    }
+
+        .menu__nesting1,
+        .menu__nesting2,
+        .menu__nesting3{
+        top: 2rem;
+
+        }
+
+    .wrapper{
+        left: 28rem;
+        top: 1rem;
+    }
+
+    .Controles__Wrapper{
+        right: 8rem;
+        bottom: 4rem;
+    }
+
+    .Controles button{
+        margin-right: 2rem;
+    }
+
+    .Vizualiacion{
+        display: flex;
+     
+    }
+
+    .Vizualiacion span{
+        margin-left: 0;
+     
+    }
+
+    .Contenedor__destino{
+        padding: 0 0 ;
+    }
+
+    .Contenedor__Flex{
+        left: 0;
+        width: 80%;
+    }
+.btnMapaInteractivo{
+    margin-left: 0;
+    font-size: 14px;
+}
+
+    .flex__container{
+        left: 15px;
+        width: 95%;
+    }
+
+    .flex__item__1{
+        padding: 0;
+    }
+    .Descripcion__ST{
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width:892px) {
+   
+  .MapaInteractivo{
+    margin-right: 100px;
+  }
+}
+
+@media screen and (max-width:700px){
+ 
+
+    .Menu__link{
+        font-size: 10px;
+    
+    }
+}
